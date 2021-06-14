@@ -3,6 +3,7 @@ import whoseHouse from "./houses/whoseHouse";
 import Hufflepuff from "./houses/Hufflepuff";
 import * as GryffFunctions from "./houses/Gryffindor";
 
+
 console.log(GryffFunctions.colors);
 // => 'Scarlet and Gold'
 
